@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+/wifiqr
+dist/
+coverage.out
